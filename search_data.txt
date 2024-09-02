@@ -1,0 +1,10 @@
+
+State: Odisha
+District: Khorda
+Locality: Jaydev Vihar
+Student Name: Subhekshana Tripathy
+Class: 4
+School: dpsv
+Mobile Number: 07751853031
+Email: official2629@gmail.com
+-------------------------------------------
